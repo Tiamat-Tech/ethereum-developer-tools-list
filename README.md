@@ -113,11 +113,12 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Etherspot](https://etherspot.io/) - MultiChain Smart Wallet SDK, supports most of the EVM-compatible chains.
 * [Ambire Login SDK](https://github.com/AmbireTech/wallet-login-sdk) - Smart Wallet SDK focused on onboarding via email, supports the popular EVM chains.
 * [Tatum](https://github.com/tatumio/tatum-js) - Tatum SDK is a powerful, feature-rich TypeScript/JavaScript library that streamlines the development of blockchain applications.
+* [Catapulta](https://catapulta.sh) - Zero config smart contracts deployment platform, automate verifications and share deployment reports, compatible with Foundry and Hardhat.
+
   
 
 #### IDEs
 * [Remix](https://remix.ethereum.org/) - Web IDE with built in static analysis, test blockchain VM.
-* [Ethereum Studio](https://studio.ethereum.org/) - Web IDE. Built in browser blockchain VM, Metamask integration (one click deployments to Testnet/Mainnet), transaction logger and live code your WebApp among many other features.
 * [Atom](https://atom.io/) - Atom editor with [Atom Solidity Linter](https://atom.io/packages/atom-solidity-linter), [Etheratom](https://atom.io/packages/etheratom), [autocomplete-solidity](https://atom.io/packages/autocomplete-solidity), and [language-solidity](https://atom.io/packages/language-solidity) packages
 * [Vim solidity](https://github.com/tomlion/vim-solidity) - Vim syntax file for solidity
 * [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) - Visual Studio Code extension that adds support for Solidity
@@ -233,6 +234,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Transpose](https://transpose.io) - Powerful APIs for accessing human-readable Ethereum data at scale.
 * [Web3-Ethereum-Defi](https://github.com/tradingstrategy-ai/web3-ethereum-defi) - Integrate DeFi protocols to your Python applications, data research and trading tools
 * [Basement](https://basement.dev) - Index web3 data using GraphQL, SQL or no-code, on Ethereum or op-stack chains.
+* [GhostGraph](https://ghostgraph.xyz) - The easiest way to create EVM chain indexers using Solidity.
 
 #### Bootstrap/Out-of-Box tools
 * [Truffle boxes](https://trufflesuite.com/boxes) - Packaged components for the Ethereum ecosystem
@@ -333,6 +335,7 @@ Many thanks to the ~100 contributors including [@corbpage](https://twitter.com/c
 * [Mana](https://github.com/mana-ethereum/mana) - Ethereum full node implementation written in Elixir.
 * [Chainstack](https://chainstack.com/) - A managed service providing elastic and dedicated Geth nodes
 * [QuickNode](https://quicknode.com/) - Blockchain developer cloud with API access and node-as-a-service.
+* [GetBlock](https://getblock.io/) - Blockchain-as-a-Service provider (RPC Node provider) that supports over 50 multiple networks, including ETH.
 * [Watchdata](https://watchdata.io) - Provide simple and reliable API access to Ethereum blockchain
 * [NOWNodes](https://nownodes.io) - Provide access to ETH node (and 48+ more) and Block Explorer. Get free API key to test blockchain-as-a-service solution
 * [Spice](https://spice.xyz) - Data and AI managed service, with SQL, API, and Node-as-a-Service.
